@@ -1,0 +1,20 @@
+{
+  "name": "tsrecipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buildrun": "npm-run tsc && npm-run ts-node app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.38",
+    "jasmine": "^2.5.2",
+    "ts-node": "^2.0.0",
+    "tslint": "^4.0.2",
+    "typescript": "^2.0.10"
+  },
+  "dependencies": {}
+}

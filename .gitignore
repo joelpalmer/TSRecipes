@@ -1,0 +1,7 @@
+node_modules
+.vscode
+spec/*.js
+*.js
+*.map
+.DS_Store
+*.log
